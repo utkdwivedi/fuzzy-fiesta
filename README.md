@@ -245,7 +245,7 @@ The intended workflow processes the webcam stream locally for hand tracking and 
 
 ## 👥 Project Authors
 
-**Utkarsh Dwivedi** and **Sudhanshu Pandey**
+**Utkarsh Dwivedi** 
 
 ## 📄 License
 
