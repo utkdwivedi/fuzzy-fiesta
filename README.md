@@ -249,8 +249,9 @@ The intended workflow processes the webcam stream locally for hand tracking and 
 
 ## 📄 License
 
-No license is specified here. Add a `LICENSE` file to the repository if you want to clearly define how others may use, modify, and distribute the project.
+This project is licensed under the [MIT License](LICENSE).
 
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the terms and conditions of the MIT License.
 ---
 
 <div align="center">
